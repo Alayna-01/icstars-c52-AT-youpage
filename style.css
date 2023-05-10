@@ -1,0 +1,77 @@
+body{
+    margin: 0;
+    background-image: url(/gifs/animated\ gif\ rain\ dark\ backround\ 39293.gif);
+    background-size: cover;
+    color: rgb(222, 231, 239);
+}
+
+h1{
+    text-align: center;
+    background-image: linear-gradient( to bottom, red, black);
+    text-align: center;
+    height: 50px;
+    margin-top: 60px;
+}
+
+
+.intro{
+    padding-bottom: 50px;
+    padding-top: 50px;
+}
+
+p{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.ul-div{
+    display: table;
+  margin: 0 auto;
+  margin-top: 100px;
+  margin-left: 30px;
+  margin-right: 30px;
+  font-size: 30px;
+  padding-bottom: 50px;
+  padding-top: 40px;
+  background-color: rgba(193, 3, 3, 0.896);
+  border-left: solid 15px rgb(100, 2, 22);
+  border-radius: 5px;
+}
+
+.ol-div{
+  display: table;
+  margin: 0 auto;
+  margin-top: 75px;
+  padding-bottom: 50px;
+  padding-top: 50px;
+  font-size: 30px;
+  color: rgb(255, 242, 245);
+  background-color: rgb(159, 4, 4);
+  border-radius: 20px;
+  box-shadow: 10px 3px rgb(255, 40, 40);
+  width: 600px;
+}
+
+
+.first-image{
+    margin-left: 32%;
+    border: ridge 25px rgb(122, 6, 29);
+}
+
+.first-vid{
+    margin-left: 28%;
+}
+
+footer{
+    color: aliceblue;
+    background-image: linear-gradient( to bottom, rgb(0, 123, 255), black);
+    height: 50px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 200px;
+    text-align: center;
+    font-size: 50px;
+    font-weight: bolder;
+    text-shadow: 2px 2px rgb(53, 132, 250);
+}
